@@ -17,6 +17,6 @@ public class MukemmelSayi {
             System.out.println(N + " bir mükemmel sayıdır.");
         }
         else
-            System.out.println(N + " bir mükemmel sayı değildir.");
+            System.out.println(N + " sayısı bir mükemmel sayı değildir.");
     }
 }
