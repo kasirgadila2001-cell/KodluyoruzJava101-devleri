@@ -1,5 +1,4 @@
 package donguler;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class GelismisHesapMakinesi {
